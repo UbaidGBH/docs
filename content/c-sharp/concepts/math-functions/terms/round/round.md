@@ -54,6 +54,7 @@ Rounded value is 10
 ## Codebyte Example
 
 The following example passes three arguments into the method:
+hello
 
 ```codebyte/csharp
 using System;
